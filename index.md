@@ -5,7 +5,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="C:\Users\elr24ms\Desktop\GitHUB_training\git-lesson\Rubrene.png" 
+    src="https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png" 
     alt="Our logo">
 </img>
 
